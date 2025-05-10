@@ -1,0 +1,17 @@
+{
+    "normal": {
+        "sigma": 0,
+        "noiseRatio": 0,
+        "conflictRatio": 0
+    },
+    "conflictD1": {
+        "sigma": 0.5,
+        "noiseRatio": 0.1,
+        "conflictRatio": 0.4
+    },
+    "conflictD2": {
+        "sigma": 0.5,
+        "noiseRatio": 0.4,
+        "conflictRatio": 0.4
+    }
+}

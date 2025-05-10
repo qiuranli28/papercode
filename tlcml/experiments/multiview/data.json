@@ -1,0 +1,73 @@
+{
+    "homo": {
+        "comment": "torchvision_mnist",
+        "path": "./assets/datasets/local/multiview/mnist/mnist_with_torchvision.npy",
+        "normal": false
+    },
+    "mnist": {
+        "comment": "mnist",
+        "path": "./assets/datasets/remote/qrl_remote_datasets/multiview/mnist/mnist.npy",
+        "normal": true
+    },
+    "pie": {
+        "comment": "pie",
+        "path": "./assets/datasets/remote/qrl_remote_datasets/multiview/pie/pie.npy",
+        "normal": true
+    },
+    "scene": {
+        "comment": "scene",
+        "path": "./assets/datasets/remote/qrl_remote_datasets/multiview/scene/scene.npy",
+        "normal": true
+    },
+    "cub": {
+        "comment": "cub",
+        "path": "./assets/datasets/remote/qrl_remote_datasets/multiview/cub/cub.npy",
+        "normal": true
+    },
+    "awa": {
+        "comment": "awa",
+        "path": "./assets/datasets/local/multiview/awa/awa.npy",
+        "normal": false
+    },
+    "yale": {
+        "comment": "yale",
+        "path": "./assets/datasets/local/multiview/yale/yale.npy",
+        "normal": false
+    },
+    "caltech": {
+        "comment": "caltech",
+        "path": "./assets/datasets/remote/qrl_remote_datasets/multiview/caltech/caltech101.npy",
+        "normal": true
+    },
+    "aloi": {
+        "comment": "aloi",
+        "path": "./assets/datasets/local/multiview/aloi/aloi.npy",
+        "normal": true
+    },
+    "hmdb": {
+        "comment": "hmdb",
+        "path": "./assets/datasets/local/multiview/hmdb/hmdb.npy",
+        "normal": true
+    },
+    "100leaves": {
+        "comment": "100leaves",
+        "path": "./assets/datasets/local/multiview/100leaves/100leaves.npy",
+        "normal": true
+    },
+    "uci": {
+        "comment": "uci",
+        "path": "./assets/datasets/local/multiview/uci/uci.npy",
+        "normal": true
+    },
+    "bbc": {
+        "comment": "bbc",
+        "path": "./assets/datasets/local/multiview/bbc/bbc.npy",
+        "normal": true
+    },
+    "3sources": {
+        "comment": "3sources",
+        "path": "./assets/datasets/local/multiview/3sources/3sources.npy",
+        "normal": true
+    }
+
+}
